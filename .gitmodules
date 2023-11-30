@@ -1,0 +1,3 @@
+[submodule "drone-browser"]
+	path = drone-browser
+	url = https://github.com/functino/drone-browser
